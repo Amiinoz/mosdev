@@ -2,14 +2,15 @@
   "name": "MosDev Theme",
   "type": "dark",
   "colors": {
+    "editor.background": "#252738",
+    "editor.foreground": "#A6ACCD",
     "sideBar.background": "#252738",
-    "editor.background": "#4ff3c4",
     "activityBar.background": "#252738",
+    "activityBarBadge.background": "#80cbc4",
+    "activityBarBadge.foreground": "#252738",
     "titleBar.activeBackground": "#252738",
     "editorGroupHeader.tabsBackground": "#252738",
     "sideBarSectionHeader.background": "#252738",
-    "list.inactiveSelectionBackground": "#252738",
-    "focusBorder": "#252738",
     "statusBar.background": "#252738",
     "tab.inactiveBackground": "#252738",
     "tab.activeBackground": "#252738",
@@ -24,29 +25,22 @@
     "editorGroup.border": "#252738",
     "panel.border": "#252738",
     "panel.background": "#252738",
-    // =================
-
     "editorGroup.dropBackground": "#292D3E",
     "tab.border": "#292D3E",
     "scrollbarSlider.hoverBackground": "#292D3E",
     "scrollbar.shadow": "#1e1f2b",
-    // "sash.hoverBorder": "#7FFFD4",
+    "sash.hoverBorder": "#80cbc4",
     "titleBar.border": "#292D3E",
     "sideBar.border": "#292D3E",
     "activityBar.border": "#292D3E",
     "statusBar.border": "#292D3E",
-    // "activityBar.foreground": "#FFDAB9",
     "activityBar.inactiveForeground": "#808080",
-    // -------terminal
-    // "terminal.background": "#292D3E",
     "terminal.foreground": "#808080",
     "terminalCursor.background": "#808080",
     "terminalCursor.foreground": "#FF6188",
     "terminal.ansiBlack": "#1D2021",
-    // "terminal.ansiBlue": "#73c2fb",
     "terminal.ansiBlue": "#4287f5",
     "terminal.ansiBrightBlack": "#665C54",
-    // "terminal.ansiBrightBlue": "#0D6678",
     "terminal.ansiBrightCyan": "#66D9EF",
     "terminal.ansiBrightGreen": "#A6E22E",
     "terminal.ansiBrightMagenta": "#AE81FF",
@@ -55,26 +49,22 @@
     "terminal.ansiBrightYellow": "#FFD866",
     "terminal.ansiCyan": "#8BA59B",
     "terminal.ansiGreen": "#A6E22E",
-    // "terminal.ansiMagenta": "#8F4673",
     "terminal.ansiMagenta": "#53EFF7",
     "terminal.ansiRed": "#F92672",
-    // "terminal.ansiWhite": "#A89984",
     "terminal.ansiWhite": "#FFF",
     "terminal.ansiYellow": "#FFD866"
-
-    // =========================
   },
   "tokenColors": [
     {
       "scope": "comment",
       "settings": {
-        "foreground": "#5c46a0"
+        "foreground": "#676E95"
       }
     },
     {
       "scope": "string",
       "settings": {
-        "foreground": "#f0e393"
+        "foreground": "#ffcb6b"
       }
     },
     {
@@ -124,21 +114,21 @@
     {
       "scope": "entity.name.class",
       "settings": {
-        "foreground": "#A6E22E",
+        "foreground": "#a3cc17",
         "fontStyle": "underline"
       }
     },
     {
       "scope": "entity.other.inherited-class",
       "settings": {
-        "foreground": "#A6E22E",
+        "foreground": "#a3cc17",
         "fontStyle": "italic underline"
       }
     },
     {
       "scope": "entity.name.function",
       "settings": {
-        "foreground": "#A6E22E",
+        "foreground": "#a3cc17",
         "fontStyle": ""
       }
     },
@@ -159,28 +149,28 @@
     {
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#A6E22E",
+        "foreground": "#80cbc4",
         "fontStyle": ""
       }
     },
     {
       "scope": "support.function",
       "settings": {
-        "foreground": "#66D9EF",
+        "foreground": "#80cbc4",
         "fontStyle": ""
       }
     },
     {
       "scope": "support.constant",
       "settings": {
-        "foreground": "#66D9EF",
+        "foreground": "#80cbc4",
         "fontStyle": ""
       }
     },
     {
       "scope": "support.type, support.class",
       "settings": {
-        "foreground": "#66D9EF",
+        "foreground": "#f78c6c",
         "fontStyle": "italic"
       }
     },
