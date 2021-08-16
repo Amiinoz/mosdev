@@ -20,6 +20,8 @@
   "engines": {
     "vscode": "^1.59.0"
   },
+  "license": "MIT",
+  "icon": "mosdevIcon.jpg",
   "categories": [
     "Themes"
   ],
