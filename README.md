@@ -12,7 +12,7 @@ This extension is available for free in the [Visual Studio Code Marketplace](htt
 
 ### JavaScript
 
-![ScreenShot](https://github.com/Amiinoz/mosdev/blob/main/screenshots/screenshot1.png)
+![ScreenShot](https://github.com/Amiinoz/mosdev/blob/main/screenshots/js.png)
 
 ### Css
 
