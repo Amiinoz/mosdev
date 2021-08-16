@@ -1,26 +1,29 @@
 # MosDev Theme
 
-VSCode dark theme inspired by this poster of my favorite rapper and poster and monokai pro theme [Monokai Pro](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode) theme. .
+VSCode dark theme inspired by this poster of my favorite rapper and and Monokai pro theme [Monokai Pro](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode) theme. .
 
 ## Installing
 
-This extension is available for free in the [Visual Studio Code Marketplace]()
+This extension is available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=MosDev.MosDev-Theme)
 
 ## SCREENSHOTS
+
+### inspiration
+![screenshots](./screenshots/mosdev.jpg)
 
 
 
 ### JavaScript
 
-![ScreenShot](https://github.com/Amiinoz/mosdev/blob/main/screenshots/js.png)
+![screenshots](./screenshots/js.png)
 
 ### Css
 
-![ScreenShot](https://github.com/Amiinoz/mosdev/blob/main/screenshots/css.png)
+![screenshots](./screenshots/css.png)
 
 ### HTML
 
-![ScreenShot](https://github.com/Amiinoz/mosdev/blob/main/screenshots/html.png)
+![screenshots](./screenshots/html.png)
 
 
 
