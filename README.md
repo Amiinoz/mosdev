@@ -4,7 +4,7 @@ VSCode dark theme inspired by this poster of my favorite rapper and poster and m
 
 ## Installing
 
-This extension is available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items/akamud.vscode-theme-onedark)
+This extension is available for free in the [Visual Studio Code Marketplace]()
 
 ## SCREENSHOTS
 
