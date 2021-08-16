@@ -36,5 +36,8 @@ I am using Dank Mono, if you like you can support the author and purchase it her
 ### Credits
 [Monokai Pro](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode) theme.
 
+[Mos Def Poster]
+[by Kamoni Khem](https://fineartamerica.com/featured/mos-def-kamoni-khem.html?product=poster)
+
 
 Enjoy.
