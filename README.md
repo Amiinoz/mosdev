@@ -6,29 +6,32 @@ VSCode dark theme inspired by this poster of my favorite rapper and poster and m
 
 This extension is available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items/akamud.vscode-theme-onedark)
 
+## SCREENSHOTS
+
 
 
 ### JavaScript
 
-![ScreenShot](https://cdn.jsdelivr.net/gh/binaryify/onedark-pro/screenshots/italic.png)
+![ScreenShot](https://github.com/Amiinoz/mosdev/blob/main/screenshots/screenshot1.png)
 
 ### Css
 
-![ScreenShot](https://cdn.jsdelivr.net/gh/binaryify/onedark-pro/screenshots/italic.png)
+![ScreenShot](https://github.com/Amiinoz/mosdev/blob/main/screenshots/css.png)
 
 ### HTML
 
-![ScreenShot](https://cdn.jsdelivr.net/gh/binaryify/onedark-pro/screenshots/italic.png)
+![ScreenShot](https://github.com/Amiinoz/mosdev/blob/main/screenshots/html.png)
 
 
 
-```json
-"editor.semanticHighlighting.enabled": false
-```
 
 ### Custom Font
 
 I am using Dank Mono, if you like you can support the author and purchase it here: [Dank Mono ](https://philpl.gumroad.com/l/dank-mono) font.
+
+
+### Credits
+[Monokai Pro](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode) theme.
 
 
 Enjoy.
