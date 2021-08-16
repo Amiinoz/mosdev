@@ -1,21 +1,35 @@
 {
-    "name": "MosDev-Theme",
-    "displayName": "MosDev Theme",
-    "description": " VS Code dark theme",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.59.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "MosDev Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/MosDev Theme-color-theme.json"
-            }
-        ]
-    }
+  "name": "MosDev-Theme",
+  "displayName": "MosDev Theme",
+  "description": " VS Code dark theme",
+  "version": "0.0.1",
+  "publisher": "MosDev",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Amiinoz/mosdev.git"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "MosDev",
+    "mos dev",
+    "MosDev dark theme",
+    "mos dev theme",
+    "MosDev theme"
+  ],
+  "engines": {
+    "vscode": "^1.59.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "MosDev Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MosDev Theme-color-theme.json"
+      }
+    ]
+  }
 }
